@@ -1,8 +1,0 @@
-
-
-
-
-print ('p')
-
-
-print ('pd')
